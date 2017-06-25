@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonLab.Plugins", "MonLab.Plugins.csproj", "{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonLab", "MonLab.csproj", "{515F0054-28E0-435F-DAB9-8E4A659E1424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonLab.Editor.Plugins", "MonLab.Editor.Plugins.csproj", "{64830E6F-53C2-6865-5834-3C43ED293708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515F0054-28E0-435F-DAB9-8E4A659E1424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515F0054-28E0-435F-DAB9-8E4A659E1424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515F0054-28E0-435F-DAB9-8E4A659E1424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515F0054-28E0-435F-DAB9-8E4A659E1424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64830E6F-53C2-6865-5834-3C43ED293708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64830E6F-53C2-6865-5834-3C43ED293708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64830E6F-53C2-6865-5834-3C43ED293708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64830E6F-53C2-6865-5834-3C43ED293708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

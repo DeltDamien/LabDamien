@@ -43,7 +43,7 @@ public class PlayerInputBar : MonoBehaviour
     {
         if (Ball != null)
         {
-            if (transform.FindChild(Ball.name) != null && Input.GetButton("Jump"))
+            if (transform.Find(Ball.name) != null && Input.GetButton("Jump"))
             {
                 Ball.GetComponent<Rigidbody>().AddForce(Random.Range(-800, 800), BallImpulsion, 0);
                 Ball.transform.parent = transform.parent;
