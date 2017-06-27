@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonLab.Plugins", "MonLab.Plugins.csproj", "{B64E6DC4-5EF4-9ACD-920B-EC51B8232275}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonLab", "MonLab.csproj", "{515F0054-28E0-435F-DAB9-8E4A659E1424}"
