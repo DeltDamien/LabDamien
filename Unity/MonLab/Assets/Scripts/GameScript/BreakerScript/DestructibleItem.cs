@@ -14,10 +14,10 @@ public class DestructibleItem : MonoBehaviour
     private ItemGenerator itemGen;
     private ScoreItem scoreItem;
 
-    public void Init()
+    public void Start()
     {
-        itemGen = this.GetComponent<ItemGenerator>();
-        scoreItem = this.GetComponent<ScoreItem>();
+        itemGen = this.gameObject.GetComponent<ItemGenerator>();
+        scoreItem = this.gameObject.GetComponent<ScoreItem>();
     }
 
     private void PlaySplosion()
