@@ -70,7 +70,11 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 292}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 78
+=======
+  controlID: 129
+>>>>>>> d4caf0979acbb0d2937e78be6d84ec6db9fa4e66
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,7 +162,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 10
+  controlID: 102
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,7 +186,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 11
+  controlID: 103
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 12
+  controlID: 104
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -415,9 +419,15 @@ MonoBehaviour:
     height: 525
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: d8fbffff00000000
+=======
+    m_SelectedIDs: 7e2c0000
+    m_LastClickedID: 11390
+    m_ExpandedIDs: defbffff000000005a2c0000
+>>>>>>> d4caf0979acbb0d2937e78be6d84ec6db9fa4e66
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -467,14 +477,14 @@ MonoBehaviour:
     width: 806
     height: 525
   m_SceneLighting: 1
-  lastFramingTime: 15734.932067761982
+  lastFramingTime: 950.6397995302283
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.3854575, y: 2.2907212, z: -3.7267811}
+    m_Target: {x: 1.61, y: 4.87, z: 5}
     speed: 2
-    m_Value: {x: 1.3854575, y: 2.2907212, z: -3.7267811}
+    m_Value: {x: 1.61, y: 4.87, z: 5}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -501,9 +511,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0, y: 0, z: -0, w: -1}
   m_Size:
-    m_Target: 13.741265
+    m_Target: 2.6801867
     speed: 2
-    m_Value: 13.741265
+    m_Value: 2.6801867
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -620,19 +630,26 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefab/GamePrefab/BreakerPrefab
+    - Assets/Scripts/GameScript/BreakerScript
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefab/GamePrefab/BreakerPrefab
+  - Assets/Scripts/GameScript/BreakerScript
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\Profesionnel\Developement\lab\Unity\MonLab
+  m_LastProjectPath: D:\Projet\Perso\LabDamien\Unity\MonLab
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ae2a0000
     m_LastClickedID: 10926
     m_ExpandedIDs: 000000008c260000bc270000f827000006280000b8290000182a0000322a0000842a000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 127}
+    m_SelectedIDs: 4e2b0000
+    m_LastClickedID: 11086
+    m_ExpandedIDs: 000000008a260000ca270000d427000008280000102800007228000088280000e0290000402a00005a2a0000b82a0000e22a00004a2b000000ca9a3bffffff7f
+>>>>>>> d4caf0979acbb0d2937e78be6d84ec6db9fa4e66
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -660,7 +677,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000008c260000bc270000f827000006280000b8290000182a0000322a0000842a0000
+=======
+    m_ExpandedIDs: 000000008a260000ca270000d427000008280000102800007228000088280000e0290000402a00005a2a0000b82a0000e22a00004a2b0000
+>>>>>>> d4caf0979acbb0d2937e78be6d84ec6db9fa4e66
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -687,8 +708,13 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 3a6e00007ca20000a4a20000b8a20000c8a10000f82900006c2c0000162900002e38000008370000488ffdfff0280000000000001e290000f6280000103b0000da35000014360000d22b0000d42b0000463600007e330000dc410000f63f0000142e0000
+=======
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 3a6e00007ca20000a4a20000b8a20000c8a10000f82900006c2c0000162900002e38000008370000488ffdfff0280000000000001e290000f6280000103b0000da35000014360000d22b0000d42b0000463600007e330000dc410000f63f0000142e0000d63c0000
+>>>>>>> d4caf0979acbb0d2937e78be6d84ec6db9fa4e66
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -767,7 +793,7 @@ MonoBehaviour:
     y: 92
     width: 843
     height: 437
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 256.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -242
